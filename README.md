@@ -1,3 +1,10 @@
+## Shopify Web Engineer Challenge 2019
+hosted version of the web app can be found [here](http://abdulg95.github.io/shopify-web-engineer-challenge)
+
+## Installation and Getting Started
+
+simply run npm install to install node modules the npm start to start server
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
